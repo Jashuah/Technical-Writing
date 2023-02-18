@@ -12,6 +12,11 @@
   </p>
   
   2. Use your phone number to create an account in the "Simply" app and enter the sign-in code sent to your number.
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219843469-3c02f521-73ab-43c7-a0e5-2d08496016eb.jpg" width="350" height="550">
+  </p>
+
   4. Create an access code.
   5. Choose the code word and enter the sign-in code sent to your number.
   6. Click on “Go to the main page” and select the tab “Card” at the bottom of the screen.
