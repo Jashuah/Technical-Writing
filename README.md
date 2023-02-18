@@ -11,15 +11,30 @@
 <img src="https://user-images.githubusercontent.com/125072577/219838007-20b6fc5a-8667-4e72-b4d2-b9cd0975807e.jpg" width="350" height="550">
   </p>
   
-  2. Use your phone number to create an account in the "Simply" app 
+  2. Use your phone number to create an account in the "Simply" app.
   
   <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219843469-3c02f521-73ab-43c7-a0e5-2d08496016eb.jpg" width="350" height="550">
   </p>
 
   3. Enter the sign-in code sent to your number.
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219847559-c3ab2daa-b3f5-4d08-9acd-78f97715319d.jpg" width="350" height="550">
+  </p>
+  
   4. Create an access code.
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219847478-477f1459-d08b-48d0-bbf5-2e0af636ff8b.jpg" width="350" height="550">
+  </p>
+  
   5. Choose the code word and enter the sign-in code sent to your number.
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219847485-5190cc6e-c9cb-49e1-b2b7-89123856a5ae.jpg" width="350" height="550">
+  </p>
+  
   6. Click on “Go to the main page” and select the tab “Card” at the bottom of the screen.
   7. Click on “Try again” under the caption “Identification not passed.” 
   8. If you are a citizen of Kazakhstan, select “ID card of the Republic of Kazakhstan.” If not - select “Foreign passport.”
