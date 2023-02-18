@@ -71,6 +71,11 @@
   </p> 
   
   12. Now the Simply card is created.
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219848568-20ab6a53-0048-4fb3-8544-b610565d65b4.jpg" width="350" height="550">
+  </p> 
+  
 ### 2. Money transaction
   1. Open the Jusan app and select the tab “Payments” at the bottom of the screen.
   2. Click on “Mobile connection” and select “Beeline.”
