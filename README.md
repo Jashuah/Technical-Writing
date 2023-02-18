@@ -36,11 +36,40 @@
   </p>
   
   6. Click on “Go to the main page” and select the tab “Card” at the bottom of the screen.
-  7. Click on “Try again” under the caption “Identification not passed.” 
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219848062-f2b59b5d-7521-4288-9e5c-4cf7db782eaf.jpg" width="350" height="550">
+  </p>
+  
+  7. Click on “Try again” under the caption “Identification not passed.” !!!!! (CANNOT FIND SCREENSHOT FOR THIS)
   8. If you are a citizen of Kazakhstan, select “ID card of the Republic of Kazakhstan.” If not - select “Foreign passport.”
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219847507-d8df3f99-9d7e-4288-9b2e-8e8e5660601d.jpg" width="350" height="550">
+  </p>
+  
   9. Allow Simply to access the camera and can the document you selected. Check the data correctness. If there are no errors, click on “That’s right.”
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219847525-9746e172-1d93-4b53-91c0-ad12b9052147.jpg" width="350" height="550">
+  </p>
+  
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219847513-e96465f7-98e0-4022-bd76-c6ff063eefec.jpg" width="350" height="550">
+  </p> 
+  
   10. Take a selfie and blink a few times. When the photo is taken, click on “Continue.”
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219847535-f68f6bec-bb69-49af-8181-8f12dd5b7a23.jpg" width="350" height="550">
+  </p> 
+  
   11. After the identification, click on “Issue.” Now the Simply card is created. 
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/125072577/219847540-45701e50-dc49-4b36-a088-7ab787214fd0.jpg" width="350" height="550">
+  </p> 
+  
 ### 2. Money transaction
   1. Open the Jusan app and select the tab “Payments” at the bottom of the screen.
   2. Click on “Mobile connection” and select “Beeline.”
