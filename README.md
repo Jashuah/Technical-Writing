@@ -104,5 +104,7 @@ Simply is an online bank that operates without physical branch networks. This me
 * The minimum amount of money you can transfer is 1500 tenge, and the maximum amount is 2 million tenge. 
  
 ### Troubleshooting guide  
+* Before step 9, if your identification was unsuccessful, then try this:
+  * Click on “Try again” under the caption “Identification not passed”. Then start again from step 6. 
 * If you experience any issues creating a Simply account or transfering money from Simply to another bank, please contact the customer support team via WhatsApp at _+7-747-744-4077_.  
 * If you encounter any problems while making a payment through Jusan, you can use the personal assistant feature in the Jusan app for assistance.
