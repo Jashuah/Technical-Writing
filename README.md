@@ -1,12 +1,10 @@
 ## Instruction for money transfer from Jusan to any bank without commission
+### What is Simply?  
+Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app.
 ### Prerequisites:
 * Two bank accounts
 * Beeline SIM card
 * ID card  
-  
-### What is Simply?  
-Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app.
-
 ### 1. Registration on “Simply”
   1. Install the "Simply" app from Google Play or the App Store.
   
@@ -99,11 +97,8 @@ Simply is an online bank that operates without physical branch networks. This me
     <img src="https://user-images.githubusercontent.com/37952414/219937273-d7fac513-792c-4be1-babd-7e6c3eea3449.jpg" width="250" height="550">
     <img src="https://user-images.githubusercontent.com/37952414/219937283-464577a7-15f0-40b5-89c6-d3043d96ca12.jpg" width="250" height="550">
   </p>
-
-
 ### Limitations:
 * Minimum amount of money you can transfer is 1500 tenge, maximum is 2 million tenge.  
-
 ### Troubleshooting guide  
 * If you experience any issues creating a Simply account or transfering money from Simply to another bank, please contact the customer support team via WhatsApp at _+7-747-744-4077_.  
 * If you encounter any problems while making a payment through Jusan, you can use the personal assistant feature in the Jusan app for assistance.
