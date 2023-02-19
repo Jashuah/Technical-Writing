@@ -42,7 +42,7 @@ Simply is an online bank that operates without physical branch networks. This me
   
   6. Click on “Try again” under the caption “Identification not passed.”
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37952414/219954068-12786261-7c97-4758-895a-a35acc8f448a.jpg" width="250" height="550">
+  <img src="https://user-images.githubusercontent.com/37952414/219954112-240ea9d8-8e65-4c33-a168-bb642836216a.jpg" width="250" height="550">
 </p>
 
 
