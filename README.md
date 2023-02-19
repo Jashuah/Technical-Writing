@@ -66,12 +66,37 @@
   
 ### 2. Money transaction
   1. Open the Jusan app and select the “Payments” tab at the bottom of the screen.
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/37952414/219937122-8e3572f2-e743-4549-9d4d-8b943b7ff445.jpg" width="250" height="550">
+  </p>
+  
   2. Click on “Mobile connection” and select “Beeline”.
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/37952414/219937019-740f01a2-b260-4095-a9e8-d0b0f41dd997.jpg" width="250" height="550">
+  <img src="https://user-images.githubusercontent.com/37952414/219937134-dc706482-8a30-4917-9c97-9a3c6f8bb958.jpg" width="250" height="550">
+  </p>
+
   3. Enter a phone number and payment amount, then click on “Make payment”.
-  4. Open the Simply app and refresh the main page.
-  5. Click on “Transfer” and select “To the card of any bank in RK”.
-  6. Enter your card number and the payment amount, then click on “Transfer”.
-  7. Enter the code received via SMS.
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/37952414/219937169-2b91021c-f4d4-4a9f-9818-0847d1863835.jpg" width="250" height="550">
+  </p>
+  
+  4. Open the Simply app and refresh the main page. Click on “Transfer” and select “To the card of any bank in RK”.
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/37952414/219937152-618459bb-2107-462d-a703-79778302841a.jpg" width="250" height="550">
+  </p>
+
+  5. Enter your card number and the payment amount, then click on “Transfer”.
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/37952414/219937249-613a007b-053c-4cae-9135-af50dca6e9bd.jpg" width="250" height="550">
+  </p>
+  
+  7. Enter the code received via SMS. Congratulations, you have transeferd money from one bank to another without any commission.
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/37952414/219937273-d7fac513-792c-4be1-babd-7e6c3eea3449.jpg" width="250" height="550">
+    <img src="https://user-images.githubusercontent.com/37952414/219937283-464577a7-15f0-40b5-89c6-d3043d96ca12.jpg" width="250" height="550">
+  </p>
+
 
 ### Limitations:
 * Minimum amount of money you can transfer is 1500 tenge, maximum is 2 million tenge.
