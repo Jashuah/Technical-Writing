@@ -40,7 +40,12 @@ Simply is an online bank that operates without physical branch networks. This me
 <img src="https://user-images.githubusercontent.com/125072577/219848062-f2b59b5d-7521-4288-9e5c-4cf7db782eaf.jpg" width="250" height="550">
   </p>
   
-  6. Click on “Try again” under the caption “Identification not passed.” !!!!! (CANNOT FIND SCREENSHOT FOR THIS)
+  6. Click on “Try again” under the caption “Identification not passed.”
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37952414/219954068-12786261-7c97-4758-895a-a35acc8f448a.jpg" width="250" height="550">
+</p>
+
+
   7. If you are a citizen of Kazakhstan, select “ID card of the Republic of Kazakhstan.” If not - select “Foreign passport”.
   
   <p align="center">
