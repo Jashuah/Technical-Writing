@@ -2,12 +2,7 @@
 ### What is Simply?  
 <img src="https://user-images.githubusercontent.com/124692720/219939524-ba86c519-305f-42f4-9833-fed28f12917b.JPG)">  
 Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app.  
-### Prerequisites:
-* Two bank accounts
-* Beeline SIM card
-* ID card  
-### 1. Registration on “Simply”
-  1. Install the "Simply" app from Google Play or the App Store.
+
   
 <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219838007-20b6fc5a-8667-4e72-b4d2-b9cd0975807e.jpg" width="250" height="550">
