@@ -1,5 +1,6 @@
 ## Instruction for money transfer from Jusan to any bank without commission
 ### What is Simply?  
+<img src="![simply](https://user-images.githubusercontent.com/124692720/219939524-ba86c519-305f-42f4-9833-fed28f12917b.JPG)">  
 Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app.
 ### Prerequisites:
 * Two bank accounts
