@@ -37,45 +37,32 @@
 <img src="https://user-images.githubusercontent.com/125072577/219848062-f2b59b5d-7521-4288-9e5c-4cf7db782eaf.jpg" width="250" height="550">
   </p>
   
-  6. If you are a citizen of Kazakhstan, select “ID card of the Republic of Kazakhstan.” If not - select “Foreign passport”.
+  6. Click on “Try again” under the caption “Identification not passed.” !!!!! (CANNOT FIND SCREENSHOT FOR THIS)
+  7. If you are a citizen of Kazakhstan, select “ID card of the Republic of Kazakhstan.” If not - select “Foreign passport”.
   
   <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219847507-d8df3f99-9d7e-4288-9b2e-8e8e5660601d.jpg" width="250" height="550">
   </p>
   
-  7. Allow Simply to access the camera and can the document you selected. Check the data for correctness, then click on “That’s right”.
+  8. Allow Simply to access the camera and can the document you selected. Check the data for correctness, then click on “That’s right”.
   
   <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219847525-9746e172-1d93-4b53-91c0-ad12b9052147.jpg" width="250" height="550">
 <img src="https://user-images.githubusercontent.com/125072577/219847513-e96465f7-98e0-4022-bd76-c6ff063eefec.jpg" width="250" height="550">
   </p> 
   
-  8. Take a selfie. You need to blink a few times. When the photo is taken, click on “Continue”.
+  9. Take a selfie. You need to blink a few times. When the photo is taken, click on “Continue”.
   
   <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219847535-f68f6bec-bb69-49af-8181-8f12dd5b7a23.jpg" width="250" height="550">
   </p> 
   
-  9. After the identification, click on “Issue”. Now the Simply account is created.
+  10. After the identification, click on “Issue”. Now the Simply account is created.
   
   <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219847540-45701e50-dc49-4b36-a088-7ab787214fd0.jpg" width="250" height="550">
 <img src="https://user-images.githubusercontent.com/125072577/219848568-20ab6a53-0048-4fb3-8544-b610565d65b4.jpg" width="250" height="550">
   </p> 
-  
-<details>
-  <summary> <b>Troubleshooting</b> </summary>
-  <ul> 
-    <li> 
-      Before step 9, if your identification was unsuccessful, then try this:
-      <ul>
-        <li> Click on “Try again” under the caption “Identification not passed”. Then start again from step 6. </li>
-      </ul>
-    </li>
-  </ul>
-</details>
-  
- <br>
   
 ### 2. Money transaction
   1. Open the Jusan app and select the “Payments” tab at the bottom of the screen.
@@ -112,4 +99,8 @@
 
 
 ### Limitations:
-* Minimum amount of money you can transfer is 1500 tenge, maximum is 2 million tenge.
+* Minimum amount of money you can transfer is 1500 tenge, maximum is 2 million tenge.  
+
+### Troubleshooting guide  
+* If you experience any issues creating a Simply account or transfering money from Simply to another bank, please contact the customer support team via WhatsApp at _+7-747-744-4077_.  
+* If you encounter any problems while making a payment through Jusan, you can use the personal assistant feature in the Jusan app for assistance.
