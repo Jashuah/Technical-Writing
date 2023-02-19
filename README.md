@@ -4,7 +4,7 @@ Simply is an online bank that operates without physical branch networks. This me
 
 ### Prerequisites:  
 
-* Two bank accounts
+
 * Beeline SIM card
 * ID card or Foreign passport  
   
@@ -14,7 +14,7 @@ Simply is an online bank that operates without physical branch networks. This me
 <img src="https://user-images.githubusercontent.com/125072577/219838007-20b6fc5a-8667-4e72-b4d2-b9cd0975807e.jpg" width="250" height="550">
 </p>
   
-  2. Use your Beeline phone number to create an account on the "Simply" app, then enter the sign-in code sent to your number.
+  2. Use your Beeline phone number to create an account on the Simply app, then enter the sign-in code sent to your number.
   
   <p align="center">
   <img src="https://user-images.githubusercontent.com/125072577/219843469-3c02f521-73ab-43c7-a0e5-2d08496016eb.jpg" width="250" height="550">
