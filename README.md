@@ -101,7 +101,7 @@ Simply is an online bank that operates without physical branch networks. This me
   </p>
   
 ### Limitations:
-* Minimum amount of money you can transfer is 1500 tenge, maximum is 2 million tenge. 
+* The minimum amount of money you can transfer is 1500 tenge, and the maximum amount is 2 million tenge. 
  
 ### Troubleshooting guide  
 * If you experience any issues creating a Simply account or transfering money from Simply to another bank, please contact the customer support team via WhatsApp at _+7-747-744-4077_.  
