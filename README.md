@@ -1,6 +1,6 @@
 ## Transfering money from Jusan to any bank without commission
 ### How is it possible? <img align="right" src="https://user-images.githubusercontent.com/124692720/219939524-ba86c519-305f-42f4-9833-fed28f12917b.JPG" width="100" height="35"> 
-Transfering money from Jusan to any bank without commission is done using Simply. Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app.  
+Transfering money from Jusan to any bank without commission can be done using [Simply](https://www.simply.cards/). Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app. Even though you can transfer your money without commission between any banks using Simply, this intruction will focus on transactions from Jusant to another bank.  
 
 ### Prerequisites:  
 
@@ -94,17 +94,17 @@ Transfering money from Jusan to any bank without commission is done using Simply
   
 #### 2. Sending money from Simply to another bank
   
-  4. Open the Simply app and refresh the main page. Click **Transfer** and select **To the card of any bank in RK.**
+  1. Open the Simply app and refresh the main page. Click **Transfer** and select **To the card of any bank in RK.**
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/219937152-618459bb-2107-462d-a703-79778302841a.jpg" width="250" height="550">
   </p>
 
-  5. Enter your card number and the payment amount, then click **Transfer.**
+  2. Enter your card number and the payment amount, then click **Transfer.**
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/219937249-613a007b-053c-4cae-9135-af50dca6e9bd.jpg" width="250" height="550">
   </p>
   
-  7. Enter the code received via SMS. Congratulations, you have transferred money from one bank to another without any commission!
+  3. Enter the code received via SMS. Congratulations, you have transferred money from one bank to another without any commission!
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/219937273-d7fac513-792c-4be1-babd-7e6c3eea3449.jpg" width="250" height="550">
     <img src="https://user-images.githubusercontent.com/37952414/219937283-464577a7-15f0-40b5-89c6-d3043d96ca12.jpg" width="250" height="550">
