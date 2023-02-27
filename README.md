@@ -46,7 +46,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
   
   6. Click on **Try again** under the caption **Identification not passed.**
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37952414/219954112-240ea9d8-8e65-4c33-a168-bb642836216a.jpg" width="250" height="550">
+  <img src="https://user-images.githubusercontent.com/37952414/221661086-48c0d0ce-c472-494a-b73c-02605dba1285.jpeg" width="250" height="550">
 </p>
 
 
