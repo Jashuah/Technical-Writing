@@ -74,6 +74,7 @@ Transfering money from Jusan to any bank without commission is done using Simply
   </p> 
   
 ### 2. Money transaction
+#### 1. Sending money from Jusan to Simply
   1. Open the Jusan app and select the **Payments** tab at the bottom of the screen.
   <p align="center">
   <img src="https://user-images.githubusercontent.com/37952414/219937122-8e3572f2-e743-4549-9d4d-8b943b7ff445.jpg" width="250" height="550">
@@ -89,7 +90,7 @@ Transfering money from Jusan to any bank without commission is done using Simply
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/219937169-2b91021c-f4d4-4a9f-9818-0847d1863835.jpg" width="250" height="550">
   </p>
-  
+  #### 2. Sending money from Simply to another bank
   4. Open the Simply app and refresh the main page. Click **Transfer** and select **To the card of any bank in RK.**
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/219937152-618459bb-2107-462d-a703-79778302841a.jpg" width="250" height="550">
