@@ -7,6 +7,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
 
 * Beeline SIM card
 * ID card or Foreign passport
+> Without Beeline number and ID card/Foreign passport you cannot create Simply account
 * Jusan App  
   
 ### Registration on Simply  
@@ -24,12 +25,14 @@ Transfering money from Jusan to any bank without commission can be done using [S
   </p>
   
   3. Create an access code.
+  > You will have to enter this code every time you open the Simply app.
   
   <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219847478-477f1459-d08b-48d0-bbf5-2e0af636ff8b.jpg" width="250" height="550">
   </p>
   
   4. Choose a code word and enter the sign-in code sent to your number.
+  > A code word is necessary in case you forget your access code.
   
   <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219847485-5190cc6e-c9cb-49e1-b2b7-89123856a5ae.jpg" width="250" height="550">
@@ -88,6 +91,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
   </p>
 
   3. Enter a phone number and payment amount, then click **Make payment.**
+ > You have just transfered your money to your Beeline number. since your Simply account and Beeline number are connected, now you can control your money through Simply
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/219937169-2b91021c-f4d4-4a9f-9818-0847d1863835.jpg" width="250" height="550">
   </p>
