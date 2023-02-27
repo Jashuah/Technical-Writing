@@ -53,9 +53,9 @@ Transfering money from Jusan to any bank without commission can be done using [S
   7. If you are a citizen of Kazakhstan, select **ID card of the Republic of Kazakhstan.** If not, select **Foreign passport.**
   
   <p align="center">
-<img src="https://user-images.githubusercontent.com/125072577/219847507-d8df3f99-9d7e-4288-9b2e-8e8e5660601d.jpg" width="250" height="550">
+<img src="https://user-images.githubusercontent.com/37952414/221661550-216a973e-cc6e-477d-985d-5abc1a5d58ca.jpeg" width="250" height="550">
   </p>
-  
+
   8. Allow Simply to access the camera and scan the document you selected. Check the data for accuracy, then click on **That’s right.**
   
   <p align="center">
