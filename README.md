@@ -65,9 +65,9 @@ Transfering money from Jusan to any bank without commission can be done using [S
 
 
   9. Take a selfie for personal verification. You will be asked to blink a few times during this process. When the photo is taken, click **Continue.**
-  
+
   <p align="center">
-<img src="https://user-images.githubusercontent.com/125072577/219847535-f68f6bec-bb69-49af-8181-8f12dd5b7a23.jpg" width="250" height="550">
+<img src="https://user-images.githubusercontent.com/37952414/221662961-f787c075-025b-4166-92ee-110961541695.jpeg" width="250" height="550">
   </p> 
   
   10. After identification, click **Issue.** Now the Simply account is created.
