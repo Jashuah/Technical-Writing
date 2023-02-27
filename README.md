@@ -59,10 +59,11 @@ Transfering money from Jusan to any bank without commission can be done using [S
   8. Allow Simply to access the camera and scan the document you selected. Check the data for accuracy, then click on **That’s right.**
   
   <p align="center">
-<img src="https://user-images.githubusercontent.com/125072577/219847525-9746e172-1d93-4b53-91c0-ad12b9052147.jpg" width="250" height="550">
+<img src="https://user-images.githubusercontent.com/37952414/221662060-03580840-1415-4f76-9050-f9109f35d43a.jpeg" width="250" height="550">
 <img src="https://user-images.githubusercontent.com/125072577/219847513-e96465f7-98e0-4022-bd76-c6ff063eefec.jpg" width="250" height="550">
   </p> 
-  
+
+
   9. Take a selfie for personal verification. You will be asked to blink a few times during this process. When the photo is taken, click **Continue.**
   
   <p align="center">
