@@ -1,12 +1,13 @@
 ## Transfering money from Jusan to any bank without commission
-### What is Simply? <img align="right" src="https://user-images.githubusercontent.com/124692720/219939524-ba86c519-305f-42f4-9833-fed28f12917b.JPG" width="100" height="35"> 
-Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app.  
+### How is it possible? <img align="right" src="https://user-images.githubusercontent.com/124692720/219939524-ba86c519-305f-42f4-9833-fed28f12917b.JPG" width="100" height="35"> 
+Transfering money from Jusan to any bank without commission is done using Simply. Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app.  
 
 ### Prerequisites:  
 
 
 * Beeline SIM card
-* ID card or Foreign passport  
+* ID card or Foreign passport
+* Jusan App  
   
 ### Registration on Simply  
   1. Install the Simply app from Google Play or the App Store.
@@ -52,7 +53,7 @@ Simply is an online bank that operates without physical branch networks. This me
 <img src="https://user-images.githubusercontent.com/125072577/219847507-d8df3f99-9d7e-4288-9b2e-8e8e5660601d.jpg" width="250" height="550">
   </p>
   
-  8. Allow Simply to access the camera and can?? the document you selected. Check the data for accuracy, then click on **That’s right.**
+  8. Allow Simply to access the camera and scan the document you selected. Check the data for accuracy, then click on **That’s right.**
   
   <p align="center">
 <img src="https://user-images.githubusercontent.com/125072577/219847525-9746e172-1d93-4b53-91c0-ad12b9052147.jpg" width="250" height="550">
