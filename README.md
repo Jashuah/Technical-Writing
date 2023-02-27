@@ -71,9 +71,9 @@ Transfering money from Jusan to any bank without commission can be done using [S
   </p> 
   
   10. After identification, click **Issue.** Now the Simply account is created.
-  
+
   <p align="center">
-<img src="https://user-images.githubusercontent.com/125072577/219847540-45701e50-dc49-4b36-a088-7ab787214fd0.jpg" width="250" height="550">
+<img src="https://user-images.githubusercontent.com/37952414/221665192-4ec0d6c2-e172-4907-ac0b-52957f4c81c8.jpeg" width="250" height="550">
 <img src="https://user-images.githubusercontent.com/125072577/219848568-20ab6a53-0048-4fb3-8544-b610565d65b4.jpg" width="250" height="550">
   </p> 
   
