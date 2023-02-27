@@ -35,7 +35,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
   > A code word is necessary in case you forget your access code.
   
   <p align="center">
-<img src="https://user-images.githubusercontent.com/125072577/219847485-5190cc6e-c9cb-49e1-b2b7-89123856a5ae.jpg" width="250" height="550">
+<img src="https://user-images.githubusercontent.com/37952414/221658462-1f799f1c-7b1d-40d6-9ec4-40c85acb1221.jpeg" width="250" height="550">
   </p>
   
   5. Click on **Go to the main page** and select the **Card** tab at the bottom of the screen.
