@@ -1,6 +1,6 @@
 ## Transfering money from Jusan to any bank without commission
 ### How is it possible? <img align="right" src="https://user-images.githubusercontent.com/124692720/219939524-ba86c519-305f-42f4-9833-fed28f12917b.JPG" width="100" height="35"> 
-Transfering money from Jusan to any bank without commission can be done using [Simply](https://www.simply.cards/). Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app. Even though you can transfer your money without commission between any banks using Simply, this intruction will focus on transactions from Jusant to another bank.  
+Transfering money from Jusan to any bank without commission can be done using [Simply](https://www.simply.cards/). Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commision fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app. Even though you can transfer your money without commission between any banks using Simply, this intruction will focus on transactions from Jusan to another bank.  
 
 ### Prerequisites:  
 
@@ -76,7 +76,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
 <img src="https://user-images.githubusercontent.com/125072577/219848568-20ab6a53-0048-4fb3-8544-b610565d65b4.jpg" width="250" height="550">
   </p> 
   
-###  Money transaction
+###  Transfering money
 #### 1. Sending money from Jusan to Simply
 
   1. Open the Jusan app and select the **Payments** tab at the bottom of the screen.
@@ -91,7 +91,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
   </p>
 
   3. Enter a phone number and payment amount, then click **Make payment.**
- > You have just transfered your money to your Beeline number. since your Simply account and Beeline number are connected, now you can control your money through Simply
+ > You have just transfered your money to your Beeline number. Since your Simply account and Beeline number are connected, now you can control your money through Simply.
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/219937169-2b91021c-f4d4-4a9f-9818-0847d1863835.jpg" width="250" height="550">
   </p>
