@@ -84,17 +84,17 @@ Transfering money from Jusan to any bank without commission can be done using [S
   <p align="center">
   <img src="https://user-images.githubusercontent.com/37952414/219937122-8e3572f2-e743-4549-9d4d-8b943b7ff445.jpg" width="250" height="550">
   </p>
-  
+
   2. Click **Mobile connection** and select **Beeline.**
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/37952414/219937019-740f01a2-b260-4095-a9e8-d0b0f41dd997.jpg" width="250" height="550">
+  <img src="https://user-images.githubusercontent.com/37952414/221665416-2f5eabf0-f1e9-482c-8d8c-ea97326f525c.jpeg" width="250" height="550">
   <img src="https://user-images.githubusercontent.com/37952414/219937134-dc706482-8a30-4917-9c97-9a3c6f8bb958.jpg" width="250" height="550">
   </p>
 
   3. Enter your phone number and payment amount, then click **Make payment.**
  > You have just transfered your money to your Beeline number. Since your Simply account and Beeline number are connected, now you can control your money through Simply.
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/37952414/219937169-2b91021c-f4d4-4a9f-9818-0847d1863835.jpg" width="250" height="550">
+    <img src="https://user-images.githubusercontent.com/37952414/221665705-9fa84b0b-cdd6-4d2b-9132-72292171fe75.jpeg" width="250" height="550">
   </p>
   
 #### 2. Sending money from Simply to another bank
@@ -106,7 +106,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
 
   2. Enter your card number and the payment amount, then click **Transfer.**
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/37952414/219937249-613a007b-053c-4cae-9135-af50dca6e9bd.jpg" width="250" height="550">
+    <img src="https://user-images.githubusercontent.com/37952414/221665892-8b373558-cd21-4565-81a0-9a4f6c9b9059.jpeg" width="250" height="550">
   </p>
   
   3. Enter the code received via SMS. Congratulations, you have transferred money from one bank to another without any commission!
