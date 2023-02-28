@@ -16,7 +16,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
 <img src="https://user-images.githubusercontent.com/125072577/219838007-20b6fc5a-8667-4e72-b4d2-b9cd0975807e.jpg" width="250" height="550">
 </p>
   
-  2. Use your Beeline phone number to create an account on the Simply app, then enter the sign-in code sent to your number.
+  2. Use your Beeline phone number to create an account on the Simply app. Once you have entered your phone number, a sign-in code will be sent to it. Enter this code to continue.
   > Sign-in code confirms that you are the legitimate owner of the phone number you provided.
   <p align="center">
   <img src="https://user-images.githubusercontent.com/125072577/219843469-3c02f521-73ab-43c7-a0e5-2d08496016eb.jpg" width="250" height="550">
@@ -70,15 +70,15 @@ Transfering money from Jusan to any bank without commission can be done using [S
 <img src="https://user-images.githubusercontent.com/37952414/221662961-f787c075-025b-4166-92ee-110961541695.jpeg" width="250" height="550">
   </p> 
   
-  10. After identification, click **Issue.** Now the Simply account is created.
+  10. After identification, click **Issue.** Now your Simply account is created.
 
   <p align="center">
 <img src="https://user-images.githubusercontent.com/37952414/221665192-4ec0d6c2-e172-4907-ac0b-52957f4c81c8.jpeg" width="250" height="550">
 <img src="https://user-images.githubusercontent.com/125072577/219848568-20ab6a53-0048-4fb3-8544-b610565d65b4.jpg" width="250" height="550">
   </p> 
   
-###  Transfering money
-#### 1. Sending money from Jusan to Simply
+###  Transferring money between accounts
+#### A. Sending money from Jusan to Simply
 
   1. Open the Jusan app and select the **Payments** tab at the bottom of the screen.
   <p align="center">
@@ -92,12 +92,12 @@ Transfering money from Jusan to any bank without commission can be done using [S
   </p>
 
   3. Enter your phone number and payment amount, then click **Make payment.**
- > You have just transfered your money to your Beeline number. Since your Simply account and Beeline number are connected, now you can control your money through Simply.
+ > You have just transfered your money to your Beeline number. Since your Simply account and Beeline number are connected, now you can control your money through the Simply app.
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/221665705-9fa84b0b-cdd6-4d2b-9132-72292171fe75.jpeg" width="250" height="550">
   </p>
   
-#### 2. Sending money from Simply to another bank
+#### B. Sending money from Simply to another bank
   
   1. Open the Simply app and refresh the main page. Click **Transfer** and select **To the card of any bank in RK.**
   <p align="center">
