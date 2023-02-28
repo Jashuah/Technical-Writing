@@ -2,6 +2,15 @@
 ### How is it possible? <img align="right" src="https://user-images.githubusercontent.com/124692720/219939524-ba86c519-305f-42f4-9833-fed28f12917b.JPG" width="100" height="35"> 
 Transfering money from Jusan to any bank without commission can be done using [Simply](https://www.simply.cards/). Simply is an online bank that operates without physical branch networks. This means that all banking services, including account creation and management, are conducted through the Simply mobile app on your smartphone. Simply offers a convenient feature that allows you to transfer money to other banks without commission fees, making it a great choice for anyone who wants to save on transfer costs. To access this feature, you will need to create a Simply account through the mobile app. Even though you can transfer your money without commission between any banks using Simply, this instruction will focus on transactions from Jusan to another bank.  
 
+### Table of contents
+1. [Prerequisites](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission/edit/main/README.md#prerequisites)
+2. [Registration on Simply](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission/edit/main/README.md#registration-on-simply)
+3. [Transferring money between accounts](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission/edit/main/README.md#transferring-money-between-accounts)
+    * [Sending money from Jusan to Simply](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission/edit/main/README.md#a-sending-money-from-jusan-to-simply) 
+    * [Sending money from Simply to another bank](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission/edit/main/README.md#b-sending-money-from-simply-to-another-bank) 
+4. [Limitations](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission/edit/main/README.md#limitations)
+5. [Troubleshooting guide](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission/edit/main/README.md#troubleshooting-guide)
+
 ### Prerequisites:  
 
 
