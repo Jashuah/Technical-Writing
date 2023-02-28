@@ -6,8 +6,8 @@ Transfering money from Jusan to any bank without commission can be done using [S
 1. [Prerequisites](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#prerequisites)
 2. [Registration on Simply](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#registration-on-simply)
 3. [Transferring money between accounts](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#transferring-money-between-accounts)
-    * [Sending money from Jusan to Simply](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#a-sending-money-from-jusan-to-simply) 
-    * [Sending money from Simply to another bank](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#b-sending-money-from-simply-to-another-bank) 
+    A. [Sending money from Jusan to Simply](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#a-sending-money-from-jusan-to-simply) 
+    B. [Sending money from Simply to another bank](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#b-sending-money-from-simply-to-another-bank) 
 4. [Limitations](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#limitations)
 5. [Troubleshooting guide](https://github.com/Jashuah/Transfering-money-from-Jusan-bank-to-any-other-bank-without-commission#troubleshooting-guide)
 
