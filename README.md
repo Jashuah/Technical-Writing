@@ -20,6 +20,11 @@ Transfering money from Jusan to any bank without commission can be done using [S
 * ID card or foreign passport
 > Without Beeline number and ID card/foreign passport you cannot create a Simply account
 * Jusan app  
+
+### Limitations:
+* The minimum amount of money that can be transferred one-time from Simply to any bank is 1500 tenge.
+* The maximum amount of money that can be transferred one-time from Simply to any bank is 150,000 tenge.
+* The maximum amount of money that can be transferred from Simply to any bank in a month is 1,035,000 tenge.
   
 ### Registration on Simply  
   1. Install the Simply app from Google Play or the App Store.
@@ -126,11 +131,6 @@ Transfering money from Jusan to any bank without commission can be done using [S
     <img src="https://user-images.githubusercontent.com/37952414/219937283-464577a7-15f0-40b5-89c6-d3043d96ca12.jpg" width="250" height="550">
   </p>
   
-### Limitations:
-* The minimum amount of money that can be transferred one-time from Simply to any bank is 1500 tenge.
-* The maximum amount of money that can be transferred one-time from Simply to any bank is 150,000 tenge.
-* The maximum amount of money that can be transferred from Simply to any bank in a month is 1,035,000 tenge.
- 
 ### Troubleshooting guide  
 * If you experience any issues creating a Simply account or transfering money from Simply to another bank, please contact the customer support team via WhatsApp at _+7-747-744-4077_.  
 * If you encountered any problems while making a payment through Jusan, you can use the personal assistant feature in the Jusan app for assistance.
