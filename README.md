@@ -92,7 +92,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
   </p>
 
   3. Enter your phone number and payment amount, then click **Make payment.**
- > You have just transferred your money to your Beeline number. Since your Simply account and Beeline number are connected, now you can control your money through the Simply app.
+ > You have just transferred your money to your Beeline number. Since your Simply account and Beeline number are connected, now you can control your money through the Simply app. Please note that if you have a mobile tariff plan on your Beeline number, when it expires, the payment for the plan will be automatically deducted from your Simply account. 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/37952414/221665705-9fa84b0b-cdd6-4d2b-9132-72292171fe75.jpeg" width="250" height="550">
   </p>
