@@ -116,7 +116,9 @@ Transfering money from Jusan to any bank without commission can be done using [S
   </p>
   
 ### Limitations:
-* The minimum amount of money you can transfer is 1500 tenge, and the maximum amount is 2 million tenge. 
+* The minimum amount of money that can be transferred one-time from Simply to any bank is 1500 tenge.
+* The maximum amount of money that can be transferred one-time from Simply to any bank is 150,000 tenge.
+* The maximum amount of money that can be transferred from Simply to any bank in a month is 1,035,000 tenge.
  
 ### Troubleshooting guide  
 * If you experience any issues creating a Simply account or transfering money from Simply to another bank, please contact the customer support team via WhatsApp at _+7-747-744-4077_.  
