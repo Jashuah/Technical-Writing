@@ -17,7 +17,7 @@ Transfering money from Jusan to any bank without commission can be done using [S
 </p>
   
   2. Use your Beeline phone number to create an account on the Simply app, then enter the sign-in code sent to your number.
-  
+  > Sign-in code confirms that you are the legitimate owner of the phone number you provided.
   <p align="center">
   <img src="https://user-images.githubusercontent.com/125072577/219843469-3c02f521-73ab-43c7-a0e5-2d08496016eb.jpg" width="250" height="550">
   
